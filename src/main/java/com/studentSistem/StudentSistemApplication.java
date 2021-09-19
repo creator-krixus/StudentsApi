@@ -1,0 +1,13 @@
+package com.studentSistem;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class StudentSistemApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(StudentSistemApplication.class, args);
+	}
+
+}
